@@ -13,13 +13,14 @@ section {
   padding: 20px;
 }
 
-h1 {
+.justice {
   font-size: 50px;
   margin-bottom: 20px;
+  color: #000000;
 }
 
-p {
-  color: #8b4242;
+.paragrapgh {
+  color: #000000;
 }
 
 ol {
