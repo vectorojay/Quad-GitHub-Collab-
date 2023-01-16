@@ -5,8 +5,9 @@
 }
 
 body {
-  color: #a52a2a;
+  color: #fffefe;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(32, 30, 28);
 }
 
 section {
@@ -19,13 +20,23 @@ h1 {
 }
 
 p {
-  color: #8b4242;
+  color: #fffefe;
 }
 
 ol {
   padding: 20px;
+  border: dashed rgb(178, 188, 221);
+  margin: 4px 0px 4px 0px;
+  border-radius: 25px 10px;
+  width: fit-content;
 }
 
-.finney {
-  color: #008000;
+li{
+  padding: 4px;
+  margin-left: 4px;
+}
+
+.intro{
+  margin: 10px 0px 10px 0px;
+
 }
