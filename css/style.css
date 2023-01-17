@@ -1,9 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
   color: #a52a2a;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -26,6 +20,4 @@ ol {
   padding: 20px;
 }
 
-.finney {
-  color: #008000;
-}
+
